@@ -1,0 +1,32 @@
+1. 
+-Read the file in
+-Create strings of each line and split them up individually
+-Make the list into a list of dictonaries with the emails as the key
+-Check # of logins and login times
+-For each positive case found, add 1 to the "count"
+-Report "count" for each email name
+
+2.
+-Read file in
+-Create strings of each line and split them up individually
+-Make the list into a list of dictionaries with the login date as the key
+-Check total # of log in/out times
+-For each positive case found, add 1 to the "count"
+-Report "count" and determine if it is "irresponsible behavior"
+
+3.
+-Read file in
+-Create strings of each line and split them up individually
+-Make the list into a list of dictionaries with the login date as the key
+-Check total # of log in vs. log out times
+-For each positive case found, add 1 to the "count"
+-If logout_count > login_count = "System glitch"
+
+4.
+-Read the file in
+-Create strings of each line and split them up individually
+-Make email addresses out and form a list
+-Split the @ from each string
+-Remove the domain from each
+-Create dictionary using domain as the key and count the # of times it appeared
+-Report results
