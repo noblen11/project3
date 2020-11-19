@@ -1,7 +1,7 @@
 Noble nwokoma
 Brandon Sapp
 
-
+Python project
 
 
 We plan to write 4 fuctions to seperate each task. every fuction will have for loops to loop through the timestamps 
